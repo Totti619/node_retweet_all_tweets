@@ -1,0 +1,29 @@
+{
+  "name": "retweet_all_tweets",
+  "version": "1.0.0",
+  "description": "A NodeJS script to retweet all tweets of a Twitter Account",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon start"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "tweet",
+    "twitter",
+    "api",
+    "retweet",
+    "like"
+  ],
+  "author": "Antonio Ortiz <619totti@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  },
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "log4js": "^3.0.5",
+    "mkdirp": "^0.5.1",
+    "twitter": "^1.7.1"
+  }
+}

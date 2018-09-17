@@ -1,0 +1,11 @@
+[2018-09-17T10:12:01.675] [INFO] access - Fetching @imenorcainfo timeline... 
+[2018-09-17T10:12:02.258] [INFO] access - Trying to Retweet each tweet
+[2018-09-17T10:12:02.607] [ERROR] access - [retweet] Error retweeting: You have already retweeted this Tweet.
+[2018-09-17T10:12:02.611] [ERROR] access - [retweet] Error retweeting: You have already retweeted this Tweet.
+[2018-09-17T10:12:02.615] [ERROR] access - [retweet] Error retweeting: You have already retweeted this Tweet.
+[2018-09-17T10:12:02.619] [ERROR] access - [retweet] Error retweeting: You have already retweeted this Tweet.
+[2018-09-17T10:12:02.628] [ERROR] access - [retweet] Error retweeting: You have already retweeted this Tweet.
+[2018-09-17T10:12:02.638] [ERROR] access - [retweet] Error retweeting: You have already retweeted this Tweet.
+[2018-09-17T10:12:02.651] [ERROR] access - [retweet] Error retweeting: You have already retweeted this Tweet.
+[2018-09-17T10:12:02.656] [ERROR] access - [retweet] Error retweeting: You have already retweeted this Tweet.
+[2018-09-17T10:12:02.786] [ERROR] access - [retweet] Error retweeting: You have already retweeted this Tweet.
